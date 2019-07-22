@@ -1,6 +1,6 @@
 {
   "name": "koa-api-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "koa api interface redis cache",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,10 @@
     "cache"
   ],
   "author": "yunmoon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunmoon/koa-api-cache.git"
+  },
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.15"
