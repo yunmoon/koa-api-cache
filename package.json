@@ -1,6 +1,6 @@
 {
   "name": "koa-api-cache",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "koa api interface redis cache",
   "main": "index.js",
   "scripts": {
